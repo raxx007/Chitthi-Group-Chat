@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "85509190553",
+    "firebase_url": "https://chitthi-group-chat-app-19d4a.firebaseio.com",
+    "project_id": "chitthi-group-chat-app-19d4a",
+    "storage_bucket": "chitthi-group-chat-app-19d4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85509190553:android:073c4e79dd1b5aca",
+        "android_client_info": {
+          "package_name": "com.digipodium.chitthi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85509190553-0hn2hvgn5k3dvvjo7vfre6ipk17i3h6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.chitthi",
+            "certificate_hash": "1e3b5e2feb57fe398682391e87e281e296a0ec71"
+          }
+        },
+        {
+          "client_id": "85509190553-ker1tvv7muu1ed12mehnrnl816kq3v5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZ1p1pMgkO7-xNZVwkLk3z-dA0pe6Pys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85509190553-ker1tvv7muu1ed12mehnrnl816kq3v5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85509190553:android:b57591282a7b7ae9",
+        "android_client_info": {
+          "package_name": "com.digpodium.chitthi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85509190553-ker1tvv7muu1ed12mehnrnl816kq3v5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZ1p1pMgkO7-xNZVwkLk3z-dA0pe6Pys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85509190553-ker1tvv7muu1ed12mehnrnl816kq3v5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
